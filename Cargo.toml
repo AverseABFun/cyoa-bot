@@ -1,0 +1,8 @@
+[package]
+name = "cyoa-bot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dotenv = "0.15.0"
+slack = "0.25.0"
